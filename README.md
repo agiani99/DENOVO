@@ -28,7 +28,7 @@ Molecule Explorer is an interactive web application that generates novel molecul
 - **Export Capabilities**:
   - Download results as CSV
 - **Commercial Availability Check**:
-  - Optional ZINC database lookup
+  - Optional ZINC database lookup (beta)
 
 ## Installation
 
